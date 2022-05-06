@@ -1,0 +1,21 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "recip application",
+  "default": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Muhammad Jaafar",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.22.2",
+    "fractional": "^1.0.0",
+    "parcel": "^2.5.0",
+    "regenerator-runtime": "^0.13.9"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.5.0"
+  }
+}
