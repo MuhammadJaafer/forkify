@@ -1,4 +1,3 @@
-import { Fraction } from "fractional";
 class Searchview {
   _parentEl = document.querySelector(".search");
   getQuery() {
