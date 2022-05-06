@@ -1,4 +1,5 @@
 import { async } from "regenerator-runtime";
+import { Fraction } from "fractional";
 import * as config from "./config";
 import * as helper from "./helpers";
 // import icons
